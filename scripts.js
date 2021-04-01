@@ -7,4 +7,4 @@
 let clima = true //boolean
 clima = "" //string
 
-    console.log(typeof clima)
+console.log(typeof clima)
